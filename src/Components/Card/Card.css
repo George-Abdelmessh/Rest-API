@@ -1,0 +1,16 @@
+
+.sec {
+    margin: 50px 25px;
+}
+
+.con{
+    padding: 10px;
+    border: 1px gray solid; 
+    width: 300px;
+    height: 620px;
+}
+
+img {
+    width: 300px;
+    height: 60vh;
+}

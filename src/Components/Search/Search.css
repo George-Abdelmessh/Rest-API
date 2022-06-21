@@ -1,0 +1,43 @@
+.main {
+    height: 71vh;
+    width: 100%;
+    box-sizing: border-box;
+    background-image: url('./shopping.jpg');
+    background-size: cover;
+}
+
+.content {
+    text-align: center;
+    padding-top: 210px;
+}
+
+#btn  {
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 25px;
+    font-weight: bold;
+    background: linear-gradient(77deg, rgba(7,49,87,1) 22%, rgba(33,102,143,1) 81%);
+}   
+
+.cat {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cat-btn{
+    padding: 30px;
+    margin: 35px;
+    width: 300px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background: linear-gradient(77deg, rgba(7,49,87,1) 22%, rgba(33,102,143,1) 81%);
+}
+
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
